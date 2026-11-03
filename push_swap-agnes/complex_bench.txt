@@ -1,0 +1,15 @@
+[bench] disorder: 48.42%
+[bench] strategy: complex
+[bench] complexity: O(n log n)
+[bench] operations: 554
+[bench] sa: 1
+[bench] sb: 0
+[bench] ss: 0
+[bench] pa: 97
+[bench] pb: 97
+[bench] ra: 115
+[bench] rb: 39
+[bench] rr: 49
+[bench] rra: 86
+[bench] rrb: 33
+[bench] rrr: 37
